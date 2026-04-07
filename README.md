@@ -1,16 +1,49 @@
-## Hi there 👋
+```bash
+ismael@salgado ---------------------------------------
 
-<!--
-**isalgadof/isalgadof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OS:           Argentina 🇦🇷
+Uptime:       Senior-level experience
+Host:         Hacemos Software
+Kernel:       Senior Full-Stack Developer & Solutions Architect
+IDE:          VSCode, AWS CDK
 
-Here are some ideas to get you started:
+Languages.Programming:  TypeScript, Node.js, JavaScript
+Languages.Cloud:        AWS (Lambda, S3, RDS, SQS, SNS, EventBridge, CDK)
+Languages.Database:     SQL, MySQL, PostgreSQL
+Languages.Frontend:     React.js, Next.js, HTML5, CSS3
+Languages.Data:         Power BI, MongoDB
+Languages.Real:         Spanish (Native), English (Professional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Architecture:           Microservices, Event-Driven Architecture
+APIs:                   REST, GraphQL
+DevOps:                 CI/CD (GitHub Actions)
+Security:               JWT, OAuth
+Other:                  Redis, Docker, Testing (Jest, TDD)
+
+------------------- Work -----------------------------
+
+Hacemos Software:
+  Founder & Backend Lead Developer / Full-Stack Solutions Architect (2022 - Present)
+
+CHE3D:
+  CTO & IT Manager (2020 - 2022)
+
+Buenos Aires City Government:
+  Functional Analyst & Java Developer (2016 - 2021)
+  Software Developer Intern (2015)
+
+IPA3D:
+  Founder & Director (2017 - 2019)
+
+------------------- Education ------------------------
+
+Educación IT:
+  Data Science Career
+
+ET3 María Sanchez de Thompson:
+  Technician in Programming
+
+------------------- Contact --------------------------
+
+Email:      ismael@hacemos.software
+LinkedIn:   https://www.linkedin.com/in/ismael-salgado-f/
