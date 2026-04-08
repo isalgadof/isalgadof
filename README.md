@@ -5,19 +5,27 @@
 -------------- ismael salgado --------------------
 
 Argentina 🇦🇷
-[Hacemos Software]
+
 Senior Full-Stack Developer & Solutions Architect
 
 TypeScript, Node.js, React.js
+
 React.js, Next.js & more
+
 SQLServer, MySQL, PostgreSQL, MongoDB
+
 AWS IAAC (Lambda, S3, RDS, SQS, SNS, Redis, EventBridge) & GCP
 
 Microservices, Event-Driven Architecture
+
 REST, GraphQL
+
 CI/CD (GitHub Actions)
+
 JWT, OAuth
+
 Redis, Docker, Graphana
+
 
 ------------------- Work -----------------------------
 
@@ -30,11 +38,13 @@ CHE3D:
 Buenos Aires City Government:
   Functional Analyst & Java Developer
 
+
 ------------------- Education ------------------------
 
 Data Scientist
 
 Technician in Programming
+
 
 ------------------- Contact --------------------------
 
