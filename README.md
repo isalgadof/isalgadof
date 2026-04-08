@@ -22,22 +22,19 @@ Redis, Docker, Graphana
 ------------------- Work -----------------------------
 
 Hacemos Software:
-  Founder & Backend Lead Developer / Full-Stack Solutions Architect (2022 - Present)
+  Founder & Backend Lead Developer / Full-Stack Solutions Architect
 
 CHE3D:
-  CTO & IT Manager (2020 - 2022)
+  CTO & IT Manager
 
 Buenos Aires City Government:
-  Functional Analyst & Java Developer (2016 - 2021)
-  Software Developer Intern (2015)
+  Functional Analyst & Java Developer
 
 ------------------- Education ------------------------
 
-Educación IT:
-  Data Science
+Data Scientist
 
-ET3 María Sanchez de Thompson:
-  Technician in Programming
+Technician in Programming
 
 ------------------- Contact --------------------------
 
@@ -46,7 +43,7 @@ LinkedIn:   https://www.linkedin.com/in/ismael-salgado-f/
 
 </td>
 
-<td width="35%" align="center" valign="top">
+<td width="35%" align="center" valign="center">
 
 <a href="https://github.com/isalgadof">
 <picture>
