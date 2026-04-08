@@ -1,9 +1,6 @@
 <table>
-  <tr>
-    <td width="65%" valign="top">
-
-<a href="https://github.com/isalgadof">
-</a>
+<tr>
+<td width="65%" valign="top">
 
 -------------- ismael salgado --------------------
 
@@ -47,17 +44,17 @@ ET3 María Sanchez de Thompson:
 Email:      ismael@hacemos.software
 LinkedIn:   https://www.linkedin.com/in/ismael-salgado-f/
 
-    </td>
+</td>
 
-    <td width="35%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
 <a href="https://github.com/isalgadof">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./pic.png">
-    <img alt="Ismael Salgado's profile" src="./pic.png" width="250">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./pic.png">
+<img alt="Ismael Salgado's profile" src="./pic.png" width="250">
+</picture>
 </a>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
