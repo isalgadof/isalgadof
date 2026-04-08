@@ -39,6 +39,7 @@ Technician in Programming
 ------------------- Contact --------------------------
 
 Email:      ismael@hacemos.software
+
 LinkedIn:   https://www.linkedin.com/in/ismael-salgado-f/
 
 </td>
