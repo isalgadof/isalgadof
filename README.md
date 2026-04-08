@@ -1,24 +1,20 @@
 ```bash
-ismael@salgado ---------------------------------------
+ismael salgado ---------------------------------------
 
-OS:           Argentina 🇦🇷
-Uptime:       Senior-level experience
-Host:         Hacemos Software
-Kernel:       Senior Full-Stack Developer & Solutions Architect
-IDE:          VSCode, AWS CDK
+Argentina 🇦🇷
+[Hacemos Software]
+Senior Full-Stack Developer & Solutions Architect
 
-Languages.Programming:  TypeScript, Node.js, JavaScript
-Languages.Cloud:        AWS (Lambda, S3, RDS, SQS, SNS, EventBridge, CDK)
-Languages.Database:     SQL, MySQL, PostgreSQL
-Languages.Frontend:     React.js, Next.js, HTML5, CSS3
-Languages.Data:         Power BI, MongoDB
-Languages.Real:         Spanish (Native), English (Professional)
+TypeScript, Node.js, React.js
+React.js, Next.js & more
+SQLServer, MySQL, PostgreSQL, MongoDB
+AWS IAAC (Lambda, S3, RDS, SQS, SNS, Redis, EventBridge) & GCP
 
-Architecture:           Microservices, Event-Driven Architecture
-APIs:                   REST, GraphQL
-DevOps:                 CI/CD (GitHub Actions)
-Security:               JWT, OAuth
-Other:                  Redis, Docker, Testing (Jest, TDD)
+Microservices, Event-Driven Architecture
+REST, GraphQL
+CI/CD (GitHub Actions)
+JWT, OAuth
+Redis, Docker, Graphana
 
 ------------------- Work -----------------------------
 
@@ -32,13 +28,10 @@ Buenos Aires City Government:
   Functional Analyst & Java Developer (2016 - 2021)
   Software Developer Intern (2015)
 
-IPA3D:
-  Founder & Director (2017 - 2019)
-
 ------------------- Education ------------------------
 
 Educación IT:
-  Data Science Career
+  Data Science
 
 ET3 María Sanchez de Thompson:
   Technician in Programming
@@ -47,3 +40,4 @@ ET3 María Sanchez de Thompson:
 
 Email:      ismael@hacemos.software
 LinkedIn:   https://www.linkedin.com/in/ismael-salgado-f/
+
